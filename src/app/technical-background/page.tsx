@@ -11,7 +11,7 @@ export default function TechnicalBackground() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold mb-6">Technical Background</h1>
         <p className="mb-6">
-          With [X] years of experience in software development, I've worked with a variety of technologies and frameworks. Here's an overview of my technical skills:
+          With [X] years of experience in software development, I&apos;ve worked with a variety of technologies and frameworks. Here&apos;s an overview of my technical skills:
         </p>
         {skills.map((skillSet) => (
           <div key={skillSet.category} className="mb-6">
